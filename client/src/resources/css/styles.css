@@ -1,0 +1,15 @@
+.rightMargin {
+    margin-right: 10px;
+}
+
+body {
+    
+        background: #466368;
+        background: linear-gradient(to right, #f6f1d3, #648880 85%, #293f50);
+        border-radius: 6px;
+        height: 120px;
+      }
+  
+
+
+
